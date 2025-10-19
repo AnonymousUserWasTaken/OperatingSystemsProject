@@ -1,0 +1,54 @@
+Project Description
+The project is aimed to help students improve self-learning and research skills. The project is
+open-ended and students will decide on the particular algorithm(s) and real world
+application(s) to study, e.g., CPU scheduling and optimization, process and thread scheduling,
+memory management, network and security, parallel and distributed computing, etc.
+Project Process:
+
+
+
+1. Find recent research papers within 5 years (2021-2025) at https://www.ieee.org/ or
+https://dl.acm.org/ and define the problem you want to work on.
+
+Please Vote from the chosen, or Propose you're own by committing a new one.
+
+2. Implement the algorithms proposed in existing papers. A more convenient way is to find
+the papers that already uploaded their code at GitHub. More information can be found
+at https://paperswithcode.com/ (Be careful, some uploaded GitHub code has lots of
+bugs, you can either debug them or switch to another project).
+
+What Algorithm do we want to choose (Requires Step 1 to be finished)
+
+3. Propose your own algorithm based on existing algorithm and try to improve the
+performance of the existing work. You can do it by either changing parameters,
+proposing a better algorithm, or adding something new to the problem itself.
+
+TBA
+
+
+4. Implement your proposed algorithm by simulations. Use graphs to compare and
+demonstrate that your proposed work performs better than existing work. The graphs
+should clearly show the difference between yours and the existing one. For example, a
+graph has two lines representing yours and the existing one where one line is above the
+other.
+
+TBA
+
+5. Submit your presentation slides before 11/11, 11:59 pm (tentative) and make the
+presentations in the last two weeks of this semester.
+
+TBA
+
+6. Submit your final package before 12/1, 11:59 pm. The package contains the original
+paper, final report (see template), runnable code, a video of how you run your code and
+generate results.
+
+TBA
+
+PS: Don’t wait until the last minute to do your project, you will meet lots of unexpected issues.
+
+Please clarify the contribution of each group member and we will grade accordingly.
+
+
+
+
