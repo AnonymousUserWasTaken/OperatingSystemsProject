@@ -1,0 +1,47 @@
+<h2 style="color:#1E90FF;">🚀 <b>Project Report</b></h2>
+
+(put the title of your project here)
+
+<span style="color:red;">Any Ideas?</span>
+
+
+Group Member and Contribution
+(Please list all names, emails, R#s of all members and your contributions)
+e.g., A, A@ttu.edu, A#: drafting the problem statement of the report
+Contribution needs to be clear and detailed.
+
+For now just put your names:
+Like this.
+
+David Escobar 11828338
+
+
+Problem Statement
+
+
+(background and applications, do not copy from paper, use your own words to summarize,
+figures can be added to better explain the problem)
+
+<span style="color:red;">We choose whatever paper and summarize the background and the applications already applied by our solution? Why does it work here?</span>
+
+
+Problem Solution from Previous Work
+(use your own words to summarize)
+Proposed Idea
+Comparison between Proposed Algorithm and Existing Ones
+(Show figures of the comparison between your work and existing ones. X-axis and Y-axis must
+be clear. At least 3 figures need to be included. Describe each figure and explain why your
+proposed algorithm is better.) 
+
+<span style="color:red;">Basic Problem-Solution Fit</span>
+
+```
+  - We need Novely (What makes it different, What makes it better?)
+  - Visualize its performance in a figure to showcase the linear progression between the two
+  - ensure we use concise and discrete X and Y format
+```
+Conclusion (self-explanatory)
+References:
+[1] github link
+[2] paper you use (use same format as the references in standard journals), paper must be
+within 5 recent years (2021-2025).
